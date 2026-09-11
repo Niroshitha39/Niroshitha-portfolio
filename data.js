@@ -1,7 +1,7 @@
 const portfolioData = {
   "personal": {
-    "name": "Rohan Das",
-    "title": "Full Stack Developer & DevOps Engineer",
+    "name": "Niroshitha",
+    "title": "CSE student",
     "email": "rohandas.zero@gmail.com",
     "github": "https://github.com/rd6260",
     "linkedin": "https://linkedin.com",
@@ -42,7 +42,7 @@ const portfolioData = {
     {
       "degree": "B.S. in Computer Science",
       "institution": "University of Technology",
-      "duration": "2015 - 2019"
+      "duration": "2026 - 2030"
     }
   ]
 };
